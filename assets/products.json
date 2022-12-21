@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hollow Knight",
+    "description": "1 player, metroidvania",
+    "code": "00001",
+    "url": "imgUrl1",
+    "price": 50,
+    "stock": "10",
+    "id": 1,
+    "timestamp": "2022-12-21 2:23"
+  },
+  {
+    "name": "Horizon forbidden west",
+    "description": "rpg, 3d",
+    "code": "00003",
+    "url": "imgUrl3",
+    "price": 60,
+    "stock": "6",
+    "id": 3,
+    "timestamp": "2022-12-21 2:24"
+  },
+  {
+    "name": "The Last Of Us",
+    "description": "suspense, 3d, zombies",
+    "code": "00004",
+    "url": "imgUrl4",
+    "price": 50,
+    "stock": "13",
+    "id": 4,
+    "timestamp": "2022-12-21 2:25"
+  },
+  {
+    "name": "GEARS",
+    "description": "suspense, 3d, aliens, fps",
+    "code": "00005",
+    "url": "imgUrl5",
+    "price": 35,
+    "stock": "11",
+    "id": 5,
+    "timestamp": "2022-12-21 2:29"
+  }
+]
